@@ -1,0 +1,12 @@
+name: MHAQuirks
+version: 0.4
+main: com.mhaquirks.MHAQuirks
+author: MHAQuirks
+description: MHA-style Quirk system for Paper 1.12.2
+commands:
+  quirk:
+    description: Quirk and loadout commands
+    usage: /quirk
+permissions:
+  mhaquirks.admin:
+    default: op
